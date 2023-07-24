@@ -1,0 +1,1 @@
+For The social media influence model is a coupled dynamical system that captures the interactions between users in a social media network. This model shows how a user's following, cummulative likes received for the posts made in a week and the number of posts made in said week affect each other
