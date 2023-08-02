@@ -10,6 +10,8 @@ Number of Posts: This indicates the total number of posts made by the user in a 
 Model Simulation and Analysis:
 I implemented the social media influence model using mathematical equations that describe the interactions between the variables. By running simulations over multiple weeks, I studied how changes in one variable can impact the other variables over time. The simulations also allowed me to explore scenarios such as sudden spikes in following, viral posts, and user engagement patterns.
 
+
+
 Final Project: Extended Lotka-Volterra Model with Allee Effects and Stochastic Growth Rate
 Introduction:
 For my final project, I extended the classical Lotka-Volterra model, which describes the predator-prey relationship between two species, to incorporate additional factors that influence population dynamics. Specifically, I introduced Allee effects and stochastic growth rates to make the model more realistic and applicable to real-world ecological systems.
